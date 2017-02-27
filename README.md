@@ -6,13 +6,9 @@ Easy class to compare files trhough MD5
  - Create a new instance:
 ```Dim md5 As MD5File = New MD5File()```
  - Compare the files!
-```vb
-d5.compareFiles(PathToFile1, PathToFile2)
-```
+```d5.compareFiles(PathToFile1, PathToFile2)```
  - Maybe you want to compare an existent md5 with a file:
- ```vb
- d5.compareFile(MD5String, PathToFile)
- ```
+ ```d5.compareFile(MD5String, PathToFile)```
 
 
 ## TODO:
