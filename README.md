@@ -16,6 +16,7 @@ You can download the exe from ```MD5Test/bin/Release/MD5Test.exe``` (require net
 
 
 ## TODO:
+ 
  - [ X ] Compare directly with Path Object
 
  - [ ] Unit tests
